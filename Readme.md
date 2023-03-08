@@ -5,3 +5,5 @@ this is a new line
 
 you use ctrl+s to save the file.
 
+
+now our repository can synchronise with a remote!
