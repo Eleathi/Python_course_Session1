@@ -11,7 +11,7 @@ it's always possible to convert to an earlier (committed) state of the project
 > you can synchronyise it, which makes it easy to share your projects.
 you synchronise it with a remote repository.
 Remote means that it's on someone else's computer.
-synchronising then just means that you upload/download the stuff from the server.
+synchronising then just means that you upload/download the stuff from the server. This is called push/pull.
 
 !! do not use Github to share privacy sensitive data !!
 
